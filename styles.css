@@ -1,0 +1,45 @@
+body {
+  background-color: #ffefc4;
+}
+
+div {
+  background-color: #ffecb8;
+  margin-left: 30px;
+  margin-top: 10px;
+  width: 50%;
+}
+
+p {
+  margin: 5px;
+  font-family: "Lucida Handwriting", Lucida, Cursive;
+}
+
+a {
+  margin: 5px;
+  font-family: "Lucida Handwriting", Lucida, Cursive;
+}
+
+a:link {
+  color: brown;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: sandybrown;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: burlywood;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: "Lucida Handwriting", Lucida, Cursive;
+}
